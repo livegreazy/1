@@ -5,10 +5,23 @@
 	margin-bottom: 30px;
 	margin-left: 0px;
 	margin-right: 0px;
-	background-color: blue;
-}
-body{
-	margin: 0;
+	background-color: transparent;
+	padding-top: 50px;
+	padding-bottom: 50px;
 
 }
+.text{
+	text-align: center;
+	font-weight: 300;
+	font: arial;
+	
+}
 
+	
+	
+}
+
+li {
+	display: inline;
+}
+ 
