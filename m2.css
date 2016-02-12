@@ -1,27 +1,52 @@
-.header{
-	
-	margin: 60%;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	margin-left: 0px;
-	margin-right: 0px;
-	background-color: transparent;
-	padding-top: 50px;
-	padding-bottom: 50px;
-
-}
-.text{
+#background{
 	text-align: center;
-	font-weight: 300;
-	font: arial;
+	background: url(http://i.imgur.com/1LWoRMg.jpg?1);
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	/*opacity: 0.3;
+	-webkit-filter: grayscale(100%);*/
+
+
 	
 }
 
+
+
+#background-opacity {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(255,255,255,0.7);
+}
+body{
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+.iframe{
+	float: left;
+
+}
+h3{
+	width: 50%;
+	float: left;
+}
+
+
 	
+
+
+	
+	
+
+ul{
+	padding: 10px;
 	
 }
 
 li {
 	display: inline;
+	padding: 0px 10px 0px 10px;
 }
- 
