@@ -1,5 +1,4 @@
 
-
 /*this is the background of the page*/
 #background{
 	text-align: center;
@@ -9,10 +8,8 @@
 	height: 100%;
 	/*opacity: 0.3;
 	-webkit-filter: grayscale(100%);*/
-
-
-	
 }
+
 
 
 
@@ -22,31 +19,27 @@
 	width: 100%;
 	background-color: rgba(255,255,255,0.7);
 }
-
-/*this is the body of the page*/
 body{
 	width: 100%;
 	height: 100%;
 	padding: 0;
 	margin: 0;
+
 }
-
-
-/*this is the video on home page*/
 .iframe{
 	float: left;
 
 }
-
-
-/*first page paragraphs*/
 h3{
 	width: 50%;
 	float: left;
 }
 
 
-/*title of page*/
+	
+
+
+/*title*/
 .M2{
 	font-size: 50;
 }
@@ -66,12 +59,18 @@ h3{
 ul{
 	padding: 10px;
 
-	
-}
+	}
 
 
 li {
 
 	display: inline;
 	padding: 0px 10px 0px 10px;
+}
+
+.button1{
+	padding: 20px 15px 20px 15px;
+	float: left;
+	background-color: red
+
 }
