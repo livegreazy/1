@@ -20,5 +20,4 @@ $('#center').typeTo("Lawrence Brown");
 
 
 
-
 });

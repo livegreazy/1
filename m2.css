@@ -45,12 +45,13 @@ h3{
 .M2{
 	font-size: 50;
 	float: left;
-	height: 25%;
-	width: 10%;
-	font-family: Allan;
-	font-style: normal;
+	height: 30%;
+	width: 20%;
+	font-family: 'Norican', cursive;
+	color: red;
+
 	
-	left: 10px;
+left: 15px;
 
 
 
@@ -103,6 +104,9 @@ li {
 	padding: 20px 15px 20px 15px;
 	float: left;
 	background-color: transparent;
+	color: blue;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png);
+
 
 }
 .button2{
@@ -128,8 +132,33 @@ button{
 	float: left;
 	margin-right: 20px;
 	margin-left: 20px;
+}
+
+#basketballbtn{
+	width: 70px;
+	height: 70px;
+	background-color: transparent;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Isolated_basketball.png);
+	background-position: center;
+    background-size: 100%;
 
 
 }
 
+.text{
+	text-align: center "home";
+}
 
+
+
+.smallpic{
+	width: 80px;
+	height: 80px;
+}
+.spin:hover
+{
+    cursor: default;
+    transform: rotate(360deg);
+    transition: all 8s ease-in-out 0s;
+}
+ 
